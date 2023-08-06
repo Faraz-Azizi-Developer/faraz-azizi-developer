@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Faraz-Azizi-Developer](https://github.com/Faraz-Azizi-Developer)
 
-- 📫 How to reach me **farazazizi44@gmail.com**
+- 📫 How to reach me **faraz.azizi.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
